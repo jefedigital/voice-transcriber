@@ -1,0 +1,5 @@
+# Ignore all files except those needed for the Docker build
+*
+!requirements.txt
+!main.py
+!model/openai-whisper-base-en
